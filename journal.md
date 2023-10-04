@@ -4,3 +4,4 @@
 
 Aujourd'hui, j'ai travaillé sur git et la manipulation de fichiers
 
+voici mes notes pour cet exo
