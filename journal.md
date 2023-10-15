@@ -47,5 +47,12 @@ Date:   Wed Oct 4 10:53:45 2023 +0200
 voici mes notes pour cet exo 
 
 
+# journal de bord seance du 10/10 
 
+Aujourd'hui, j'ai approfondi mes compétences en matière de manipulation de fichiers et d'analyse de données à partir de la ligne de commande. J'ai exploré et pratiqué l'utilisation de plusieurs commandes Unix/Linux essentielles :
 
+cat : Cette commande m'a permis de lire le contenu de fichiers et de combiner plusieurs fichiers en une sortie unique.
+grep : J'ai utilisé grep pour filtrer des informations spécifiques à partir de fichiers en recherchant des motifs ou des chaînes de caractères.
+sort : Grâce à sort, j'ai appris à trier des données par ordre alphabétique ou numérique, ce qui est très utile pour organiser et analyser de grands ensembles de données.
+wc : J'ai utilisé la commande wc avec l'option -l pour compter le nombre de lignes dans une sortie ou un fichier, ce qui est particulièrement utile pour estimer rapidement la taille des données.
+de plus on a commance a faire des scripts je ne suis pas sur d'avoir tout suivi, je vais update mon journal de bord demain apres avoir fait les exercices pour commenter sur la partie des scripts 
