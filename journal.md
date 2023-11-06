@@ -56,3 +56,17 @@ grep : J'ai utilisé grep pour filtrer des informations spécifiques à partir d
 sort : Grâce à sort, j'ai appris à trier des données par ordre alphabétique ou numérique, ce qui est très utile pour organiser et analyser de grands ensembles de données.
 wc : J'ai utilisé la commande wc avec l'option -l pour compter le nombre de lignes dans une sortie ou un fichier, ce qui est particulièrement utile pour estimer rapidement la taille des données.
 de plus on a commance a faire des scripts je ne suis pas sur d'avoir tout suivi, je vais update mon journal de bord demain apres avoir fait les exercices pour commenter sur la partie des scripts 
+
+#Journal de bord miniprojet :
+
+pendant plusieurs jours j'ai pu apprendre a utiliser de plus en plus de 
+commandes et comprendre plus en profondeur le fonctionnement d'un script 
+dans le cadre de notre projet et l'utilité d'en avoir 
+notammement pour extraire des liens et les organiser comme on le souhaite 
+j'ai aussi beaucoup appris en rectifiant des centaine d'erreurs du 
+au mauvais usage de commande tel que cat, curl, lynx .. etc 
+pour en fin pouvroir créer mon script qui recupere les URL et les ecrire dans 
+le terminal en les séparants par tab, n'ayant aucune connaisance en HTML je n'ai
+pas pu vraiment avancer pour ce qui est de transformer le resultat, je vais réeasster 
+un peu plus tard dans la soirée pour voir ce que je peux faire,
+pour le moment mon script fonctionne bien. 
