@@ -57,6 +57,10 @@ sort : Grâce à sort, j'ai appris à trier des données par ordre alphabétique
 wc : J'ai utilisé la commande wc avec l'option -l pour compter le nombre de lignes dans une sortie ou un fichier, ce qui est particulièrement utile pour estimer rapidement la taille des données.
 de plus on a commance a faire des scripts je ne suis pas sur d'avoir tout suivi, je vais update mon journal de bord demain apres avoir fait les exercices pour commenter sur la partie des scripts 
 
+#Journal de bord projet de groupe : 
+
+Avec Alexandra et melissa on a decidé de travailler sur mot orgueil, alexandra le fera en fraçais et melissa en turc, quant a moi ça sera en espagnol, une polysemie interssante a exploiter pour ce qui est de l'espagnol c'est que orgullo veut dire fierté mais aussi l'orgueil 
+
 #Journal de bord miniprojet :
 
 pendant plusieurs jours j'ai pu apprendre a utiliser de plus en plus de 
@@ -70,3 +74,12 @@ le terminal en les séparants par tab, n'ayant aucune connaisance en HTML je n'a
 pas pu vraiment avancer pour ce qui est de transformer le resultat, je vais réeasster 
 un peu plus tard dans la soirée pour voir ce que je peux faire,
 pour le moment mon script fonctionne bien. 
+
+#Journal de bord miniprojet2 :
+ 
+Mise en Place des Scripts : Aujourd'hui, j'ai réussi à créer et mettre en œuvre les deux premiers scripts du miniprojet2. Ces étapes se sont avérées relativement simples et m'ont permis de renforcer mes compétences en scripting.
+
+Défi avec le Troisième Script : La création du troisième script, dédié aux bigrammes, a été plus complexe. Malgré certaines difficultés, notamment dans l'épuration complète de la ponctuation, le script fonctionne bien
+Bien qu'il reste des améliorations à apporter, notamment dans le nettoyage du texte, l'ensemble des scripts fonctionne efficacement
+
+
