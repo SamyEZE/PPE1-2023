@@ -81,5 +81,7 @@ Mise en Place des Scripts : Aujourd'hui, j'ai réussi à créer et mettre en œu
 
 Défi avec le Troisième Script : La création du troisième script, dédié aux bigrammes, a été plus complexe. Malgré certaines difficultés, notamment dans l'épuration complète de la ponctuation, le script fonctionne bien
 Bien qu'il reste des améliorations à apporter, notamment dans le nettoyage du texte, l'ensemble des scripts fonctionne efficacement
+#Journal de bord miniprojet3 : 
+j'ai modifié un script Bash pour intégrer le framework CSS Bulma, ce qui m'a permis de produire un tableau HTML bien plus esthétique et fonctionnel. J'ai appris à utiliser les différentes fonctionnalités de Bulma pour améliorer le design et la mise en page de mon tableau. En plus de cela, j'ai également acquis des compétences pratiques sur la mise en ligne d'une page web via GitHub Pages, me familiarisant ainsi avec les processus de publication et de gestion de contenu sur une plateforme web.
 
 
