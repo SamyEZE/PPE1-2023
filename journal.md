@@ -84,4 +84,15 @@ Bien qu'il reste des améliorations à apporter, notamment dans le nettoyage du 
 #Journal de bord miniprojet3 : 
 j'ai modifié un script Bash pour intégrer le framework CSS Bulma, ce qui m'a permis de produire un tableau HTML bien plus esthétique et fonctionnel. J'ai appris à utiliser les différentes fonctionnalités de Bulma pour améliorer le design et la mise en page de mon tableau. En plus de cela, j'ai également acquis des compétences pratiques sur la mise en ligne d'une page web via GitHub Pages, me familiarisant ainsi avec les processus de publication et de gestion de contenu sur une plateforme web.
 
+#Journal de bord projet de groupe : 
+
+La mise en place des scripts n'etait au debut pas optimale pour moi, car j'avais des diffcultés à génerer le tableau HTML avec la barre de navigation a partir du script, de plus le tableau HTML produit etait pas vraiment ce qui etait recherché, apres avoir essayé plusieurs solutions, j'ai pu obtenir un script qui fait correctement le travail, la recherche des liens pour le mot orgullo etait un peu plus complique pour l'espagnol car les usages relatifs à la fierté LGBT et l'orgueil dans son sens biblique etaient majoritaires, ce qui ne corresepondaient pas vraiment à la realité de la langue, j'ai dû donc exclure certains liens car l'usage etaient repetitifs 
+
+#Journal de bord projet de groupe 2 : 
+
+Dans ma tâche d'aujourd'hui, j'ai développé le script make_itrameur_corpus.sh pour convertir des fichiers textuels en format pseudo-XML pour iTrameur.
+Exemples concrets de défis rencontrés :
+Chemins de fichiers incorrects : Par exemple, le script a généré des chemins comme ./itrameur/dumps-text-dumps-text/orgullo/-es.txt, un chemin redondant et incorrect. J'ai dû décomposer et reconstruire ces chemins pour les corriger.
+Écrasement de fichiers : Initialement, le script écrasait le fichier contexte.txt à chaque exécution. J'ai modifié la logique pour appendre les nouveaux contenus à ce fichier plutôt que de le recréer à chaque fois.
+Gestion des formats multiples : Le script devait traiter à la fois les dumps et les contextes. J'ai intégré une fonctionnalité pour gérer ces deux types de fichiers différemment mais dans le même script.
 
